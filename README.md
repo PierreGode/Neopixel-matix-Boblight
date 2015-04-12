@@ -1,4 +1,4 @@
-# NeoPixel Shield-Boblight By Pierre Goude
+# NeoPixel Natrix Shield Boblight By Pierre Goude
 <p>This is a setup for Boblight in Kodi with an Noepixel 40 led matrix.
 <p>Pixel referenses is under Wiki.
 <p>You need:
