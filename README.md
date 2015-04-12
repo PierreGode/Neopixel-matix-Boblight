@@ -5,4 +5,4 @@
 <p>1. respberry pi 2 with kody installed 
 <p>2. boblight and boblighthd installed
 <p>3. arduino
-<p>4. Neopxelmatrix</p>
+<p>4. Adafruit NeoPixel NeoMatrix 8x8 - 64 RGB LED Pixel Matrix</p>
