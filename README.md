@@ -5,4 +5,4 @@
 <p>1. respberry pi 2 with kody installed 
 <p>2. boblight and boblighthd installed
 <p>3. arduino
-<p>4. Neopxelpatrix</p>
+<p>4. Neopxelmatrix</p>
