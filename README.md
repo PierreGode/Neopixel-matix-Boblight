@@ -1,5 +1,5 @@
-# NeoPixel Natrix Shield Boblight By Pierre Goude
-<p>This is a setup for Boblight in Kodi with an Noepixel 40 led matrix.
+# NeoPixel Matrix Boblight By Pierre Goude
+<p>This is a setup for Boblight in Kodi with an Neopixel 40 led matrix.
 <p>Pixel referenses is under Wiki.
 <p>You need:
 <p>1. Raspberry pi 2 with Kody installed 
